@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>http://localhost:4000/</loc><xhtml:link rel="alternate" hreflang="" href="http://localhost:4000/" /><xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/" /><changefreq>weekly</changefreq>
+    <loc>https://yppant.github.io//</loc><xhtml:link rel="alternate" hreflang="" href="https://yppant.github.io//" /><xhtml:link rel="alternate" hreflang="en" href="https://yppant.github.io//en/" /><changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4000/en/contact1/</loc><xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/contact1/" /><changefreq>weekly</changefreq>
+    <loc>https://yppant.github.io//en/contact1/</loc><xhtml:link rel="alternate" hreflang="en" href="https://yppant.github.io//en/contact1/" /><changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4000/en/generic/</loc><xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/generic/" /><changefreq>weekly</changefreq>
+    <loc>https://yppant.github.io//en/generic/</loc><xhtml:link rel="alternate" hreflang="en" href="https://yppant.github.io//en/generic/" /><changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4000/en/</loc><xhtml:link rel="alternate" hreflang="" href="http://localhost:4000/" /><xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/" /><changefreq>weekly</changefreq>
+    <loc>https://yppant.github.io//en/</loc><xhtml:link rel="alternate" hreflang="" href="https://yppant.github.io//" /><xhtml:link rel="alternate" hreflang="en" href="https://yppant.github.io//en/" /><changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4000/en/landing/</loc><xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/landing/" /><changefreq>weekly</changefreq>
+    <loc>https://yppant.github.io//en/landing/</loc><xhtml:link rel="alternate" hreflang="en" href="https://yppant.github.io//en/landing/" /><changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4000/en/legal-terms/</loc><xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/legal-terms/" /><changefreq>weekly</changefreq>
+    <loc>https://yppant.github.io//en/legal-terms/</loc><xhtml:link rel="alternate" hreflang="en" href="https://yppant.github.io//en/legal-terms/" /><changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4000/en/privacy-policy/</loc><xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/privacy-policy/" /><changefreq>weekly</changefreq>
+    <loc>https://yppant.github.io//en/privacy-policy/</loc><xhtml:link rel="alternate" hreflang="en" href="https://yppant.github.io//en/privacy-policy/" /><changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4000/en/vitae/</loc><xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/vitae/" /><changefreq>weekly</changefreq>
+    <loc>https://yppant.github.io//en/vitae/</loc><xhtml:link rel="alternate" hreflang="en" href="https://yppant.github.io//en/vitae/" /><changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4000/en/jekyll/update/2019/02/08/welcome-to-jekyll/</loc><xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/jekyll/update/2019/02/08/welcome-to-jekyll/" /><changefreq>weekly</changefreq>
+    <loc>https://yppant.github.io//en/jekyll/update/2019/02/08/welcome-to-jekyll/</loc><xhtml:link rel="alternate" hreflang="en" href="https://yppant.github.io//en/jekyll/update/2019/02/08/welcome-to-jekyll/" /><changefreq>weekly</changefreq>
   </url></urlset>
