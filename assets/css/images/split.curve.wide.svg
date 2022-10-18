@@ -5,8 +5,8 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   width="384"
-   height="128"
+   width=""
+   height=""
    viewBox="0 0 101.601 33.867"
    version="1.1"
    id="svg855">
@@ -27,7 +27,7 @@
   <path
      d="M67.734 0H0v33.867h33.868c8.467 0 12.699-4.234 16.932-16.934C55.034 4.233 59.267 0 67.734 0"
      class="split-bg"
-     fill="#123456"
+     fill="#c0c0c0"
      id="path851" />
   <path
      d="M 67.734,-0.132293 C 59.267,-0.132293 55.06575,4.233 50.83175,16.933 46.59875,29.633 42.334,33.999293 33.867,33.999293"
