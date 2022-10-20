@@ -682,7 +682,7 @@ header.main>:last-child {
 
 section.inverted,
 article.inverted {
-    background-color: #123456
+    background-color: #406d6d;
 }
 
 .inverted header.major>:last-child {
@@ -2261,7 +2261,7 @@ button:disabled,
 }
 
 .inverted .horizontal-tabset>input[type="radio"]:checked+label {
-    border-bottom: 2px solid #123456
+    border-bottom: 2px solid #406d6d
 }
 
 .vertical-tabset input[type="radio"] {
@@ -2358,7 +2358,7 @@ button:disabled,
 }
 
 .inverted .vertical-tabset input[type="radio"]:checked+label {
-    border-right: 2px solid #123456
+    border-right: 2px solid #406d6d
 }
 
 #wrapper {
@@ -2699,7 +2699,7 @@ body.is-preload #sidebar {
 }
 
 #header-background.inverted {
-    background-color: #123456
+    background-color: #406d6d
 }
 
 #banner {
