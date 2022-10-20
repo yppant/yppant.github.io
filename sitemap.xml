@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>yppantfoundation.com/</loc><xhtml:link rel="alternate" hreflang="" href="yppantfoundation.com/" /><xhtml:link rel="alternate" hreflang="en" href="yppantfoundation.com/en/" /><changefreq>weekly</changefreq>
+    <loc>/</loc><xhtml:link rel="alternate" hreflang="" href="/" /><xhtml:link rel="alternate" hreflang="en" href="/en/" /><changefreq>weekly</changefreq>
   </url><url>
-    <loc>yppantfoundation.com/en/About/</loc><xhtml:link rel="alternate" hreflang="en" href="yppantfoundation.com/en/About/" /><xhtml:link rel="alternate" hreflang="en" href="yppantfoundation.com/en/generic/" /><changefreq>weekly</changefreq>
+    <loc>/en/About/</loc><xhtml:link rel="alternate" hreflang="en" href="/en/About/" /><xhtml:link rel="alternate" hreflang="en" href="/en/generic/" /><changefreq>weekly</changefreq>
   </url><url>
-    <loc>yppantfoundation.com/en/generic/</loc><xhtml:link rel="alternate" hreflang="en" href="yppantfoundation.com/en/About/" /><xhtml:link rel="alternate" hreflang="en" href="yppantfoundation.com/en/generic/" /><changefreq>weekly</changefreq>
+    <loc>/en/generic/</loc><xhtml:link rel="alternate" hreflang="en" href="/en/About/" /><xhtml:link rel="alternate" hreflang="en" href="/en/generic/" /><changefreq>weekly</changefreq>
   </url><url>
-    <loc>yppantfoundation.com/en/</loc><xhtml:link rel="alternate" hreflang="" href="yppantfoundation.com/" /><xhtml:link rel="alternate" hreflang="en" href="yppantfoundation.com/en/" /><changefreq>weekly</changefreq>
+    <loc>/en/</loc><xhtml:link rel="alternate" hreflang="" href="/" /><xhtml:link rel="alternate" hreflang="en" href="/en/" /><changefreq>weekly</changefreq>
   </url><url>
-    <loc>yppantfoundation.com/en/landing/</loc><xhtml:link rel="alternate" hreflang="en" href="yppantfoundation.com/en/landing/" /><changefreq>weekly</changefreq>
+    <loc>/en/landing/</loc><xhtml:link rel="alternate" hreflang="en" href="/en/landing/" /><changefreq>weekly</changefreq>
   </url><url>
-    <loc>yppantfoundation.com/en/legal-terms/</loc><xhtml:link rel="alternate" hreflang="en" href="yppantfoundation.com/en/legal-terms/" /><changefreq>weekly</changefreq>
+    <loc>/en/legal-terms/</loc><xhtml:link rel="alternate" hreflang="en" href="/en/legal-terms/" /><changefreq>weekly</changefreq>
   </url><url>
-    <loc>yppantfoundation.com/en/privacy-policy/</loc><xhtml:link rel="alternate" hreflang="en" href="yppantfoundation.com/en/privacy-policy/" /><changefreq>weekly</changefreq>
+    <loc>/en/privacy-policy/</loc><xhtml:link rel="alternate" hreflang="en" href="/en/privacy-policy/" /><changefreq>weekly</changefreq>
   </url><url>
-    <loc>yppantfoundation.com/en/vitae/</loc><xhtml:link rel="alternate" hreflang="en" href="yppantfoundation.com/en/vitae/" /><changefreq>weekly</changefreq>
+    <loc>/en/vitae/</loc><xhtml:link rel="alternate" hreflang="en" href="/en/vitae/" /><changefreq>weekly</changefreq>
   </url><url>
-    <loc>yppantfoundation.com/en/jekyll/update/2019/02/08/welcome-to-jekyll/</loc><xhtml:link rel="alternate" hreflang="en" href="yppantfoundation.com/en/jekyll/update/2019/02/08/welcome-to-jekyll/" /><changefreq>weekly</changefreq>
+    <loc>/en/jekyll/update/2019/02/08/welcome-to-jekyll/</loc><xhtml:link rel="alternate" hreflang="en" href="/en/jekyll/update/2019/02/08/welcome-to-jekyll/" /><changefreq>weekly</changefreq>
   </url></urlset>
